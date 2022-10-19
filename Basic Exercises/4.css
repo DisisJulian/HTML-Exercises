@@ -1,0 +1,195 @@
+.price {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.uber {
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.uber:hover {
+  opacity: 0.8;
+}
+
+.amazon1 {
+  background-color: rgb(255, 216, 20);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 0.15s, opacity 0.15s;
+}
+
+.amazon1:hover {
+  background-color: rgb(233, 199, 30);
+}
+
+.amazon1:active {
+  opacity: 0.5;
+}
+
+.amazon2 {
+  background-color: rgb(255, 164, 28);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: box-shadow 0.15s;
+  transition: background-color 0.15s, opacity 0.15s;
+}
+
+.amazon2:hover {
+  background-color: rgb(255, 156, 7);
+}
+
+.amazon2:active {
+  opacity: 0.5;
+}
+
+.github {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  letter-spacing: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: 13.5px;
+  cursor: pointer;
+}
+
+.github:hover {
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.bootstrap1 {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 0.15s;
+}
+
+.bootstrap1:hover {
+  background-color: rgb(103, 68, 156);
+}
+
+.bootstrap2 {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 4px;
+  border-color: rgb(108, 117, 125);
+  border-style: solid;
+  border-width: 1px;
+  font-weight: bolder;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.bootstrap2:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+
+.linkedin1 {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 20px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 0.15s;
+}
+
+.linkedin1:hover {
+  background-color: rgb(9, 71, 133);
+}
+
+.linkedin2 {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 20px;
+  border-color: rgb(10, 102, 194);
+  border-style: solid;
+  border-width: 1px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.15s, border-width 0.15s;
+}
+
+.linkedin2:hover {
+  background-color: rgb(199, 217, 236);
+  border-width: 2px;
+}
+
+.twitter {
+  background-color: rgb(27, 127, 226);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 20px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.youtube {
+  background-color: rgb(204, 0, 0);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}

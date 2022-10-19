@@ -1,0 +1,97 @@
+p {
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.mb_heading {
+  color: orange;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mb_title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.mb_subtitle {
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.mb_price {
+  margin-bottom: 20px;
+}
+
+.mb_buy {
+  background-color: rgb(74, 110, 209);
+  color: white;
+  font-weight: bold;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.price {
+  font-size: 32px;
+  text-align: left;
+  margin-bottom: 5px;
+}
+
+.currency {
+  font-size: 16px;
+  color: gray;
+}
+
+.increase {
+  color: green;
+  margin-bottom: 8px;
+  text-align: left;
+}
+
+.decrease1 {
+  color: gray;
+  text-align: left;
+}
+
+.decrease2 {
+  color: red;
+}
+
+.intro {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.mail {
+  font-weight: normal;
+  color: gray;
+}
+
+.content {
+  font-size: 18px;
+  width: 600;
+  text-align: left;
+  line-height: 25px;
+  margin-bottom: 20px;
+}
+
+.body {
+  font-size: 18px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.mention {
+  color: rgb(37, 161, 203);
+}
